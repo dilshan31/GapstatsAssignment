@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class HomePage {
 	
 	WebDriver driver;
-	 
+	 //test
 	public void homePage(WebDriver driver) {
 		
 		this.driver = driver;
